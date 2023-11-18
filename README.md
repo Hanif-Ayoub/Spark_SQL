@@ -21,7 +21,6 @@ et les termes d'Apache Spark et de Spark SQL.
 
 Spark SQL est un module Spark pour le traitement de données structurées. Contrairement à l'API Spark RDD de base, les interfaces fournies par Spark SQL fournissent à Spark plus d'informations sur la structure des données et sur le calcul effectué. En interne, Spark SQL utilise ces informations supplémentaires pour effectuer des optimisations supplémentaires.
 
-### Spark SQL Architecture
 
 <img src="screens/10.jpg">
 
