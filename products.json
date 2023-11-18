@@ -1,0 +1,6 @@
+[
+  {"name": "Dell","price": 17000.0,"quantity": 5},
+  {"name": "Dell","price": 19000,"quantity": 9},
+  {"name": "Mac","price": 27000,"quantity": 3},
+  {"name": "HP","price": 12000,"quantity": 5}
+]

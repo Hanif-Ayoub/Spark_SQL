@@ -1,0 +1,10 @@
+Id,titre,description,service,date
+1,"Problème de connexion","Les utilisateurs ne peuvent pas se connecter au réseau","Informatique",2023-01-15
+2,"Panne de machine","La machine X2 est hors service","Production",2023-02-05
+3,"Erreur logicielle","Le logiciel de gestion des stocks a planté","Logistique",2022-11-20
+4,"Problème d'impression","Les impressions ne sont pas de bonne qualité","Informatique",2022-09-08
+5,"Bris d'équipement","Une machine de l'atelier B est endommagée","Production",2023-07-10
+6,"Interruption de service","Le serveur principal est hors ligne","Informatique",2022-12-30
+7,"Problème de livraison","Retard dans la livraison des commandes","Logistique",2023-03-25
+8,"Perte de données","Des données critiques ont été perdues","Informatique",2022-05-19
+9,"Problème de sécurité","Violation de la sécurité du système","Informatique",2022-08-03
